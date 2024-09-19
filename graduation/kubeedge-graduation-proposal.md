@@ -6,7 +6,7 @@ Since becoming a CNCF incubation-level project in September 2020, the KubeEdge p
 
 KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at the edge. It's built upon Kubernetes and provides fundamental infrastructure support for networking, application deployment and metadata synchronization between cloud and edge. In addition, KubeEdge supports MQTT, allowing developers to design logic and enable resource constraints for device communications at the edge. KubeEdge decouples and simplifies Kubernetes modules.
 
-![KubeEdge Architecture](./kubeedge_arch.png)
+![KubeEdge Architecture](https://raw.githubusercontent.com/kubeedge/kubeedge/26f47ccdb47b4fcd3c6eef9a7d97dffa49d619be/docs/images/kubeedge_arch.png)
 
 It aims to resolve three major challenges for edge computing: 1) network reliability and bandwidth limit between cloud and edge, 2) resource constraint at edge, 3) highly distributed and heterogeneous device management.
 
@@ -82,7 +82,7 @@ Since 2018, the community has witnessed more than 50 releases. With excellent ca
 
 The figure below shows the key nodes in the evolution of the KubeEdge project：
 
-![KubeEdge Innovative Journey](./kubeedge_innovative_journey.png)
+![KubeEdge Innovative Journey](https://raw.githubusercontent.com/kevin-wangzefeng/kubeedge-community/kubeedge-graduation/graduation/kubeedge_innovative_journey.png)
 
 ### 3. Community
 
@@ -91,7 +91,7 @@ The figure below shows the key nodes in the evolution of the KubeEdge project：
     - <https://github.com/kubeedge/community/blob/master/GOVERNANCE.md>
   - Established Technical Steering Committee:
     - **7 members** from **6 companies**, 1 Arm, 1 Google, 2 Huawei, 1 DaoCloud, 1 HarmonyCloud, 1 KubeShpere
-    - <https://github.com/kubeedge/community/tree/master/commitee-technical-steering>
+    - <https://github.com/kubeedge/community/tree/master/committee-technical-steering>
   - Multiple SIGs established:
     - SIG AI
     - SIG Robotics
@@ -210,3 +210,12 @@ This is documented in our community membership documentation available here for 
 KubeEdge provides a full overview of publicly listed end-users on the website, but there are others that are not yet published or in the application process to list but can be interviewed.
 
 **KubeEdge Supporters**: <https://kubeedge.io/#supporters>
+
+## Appendix
+
+### Adopter Interviews
+
+The following adopter interviews have been conducted:
+- [x] [China Telecom Cloud](https://www.chinatelecomglobal.com/): The TOC sponsors have interviewed Qidong Zhang from China Telecom Cloud in June 2024, refer here for the [interview report](https://docs.google.com/document/d/1UXuPK9bXqCZzYXLf1WdKXSgiqR8oiXrSkzxT0g6bY6c/edit?usp=sharing).
+- [x] [Nio](https://www.nio.com/): The TOC sponsors have interviewed Xuhui Jiang from Nio in July 2024, refer here for the [interview report](https://docs.google.com/document/d/1TgIyzYG8BL5K_osHuJfKuj2YCYdrI766OCSAL_-UUvw/edit?usp=sharing).
+- [x] [Zeblok Computational Inc](https://www.zeblok.com/): The TOC sponsors have interviewed Vikarna Tathe from Zeblok Computational Inc in July 2024, refer here for the [interview report](https://docs.google.com/document/d/186uAKT6suU7UR8bbpkiNxEA2nrMZFabDuKynErnjWPM/edit?usp=sharing).
